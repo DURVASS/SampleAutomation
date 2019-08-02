@@ -35,7 +35,7 @@
 	</dependency>
   </dependencies>
   <build>
-  <finalName>maven-unit-test</finalName>
+  <finalName>Automation</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
