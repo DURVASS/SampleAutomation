@@ -31,7 +31,11 @@
   		<groupId>org.testng</groupId>
  		<artifactId>testng</artifactId>
   		<version>6.14.3</version>
+<<<<<<< HEAD
   		<scope>test</scope>
+=======
+  	<scope>test</scope>
+>>>>>>> 9e49818154f986ade03e937a8122520a6188290f
 	</dependency>
   </dependencies>
 </project>
