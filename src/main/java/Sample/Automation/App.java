@@ -9,8 +9,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  */
 public class App 
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 		WebDriver driver =new FirefoxDriver();
-
+		Thread.sleep(5000);
+		driver.quit();
 	}
 }
